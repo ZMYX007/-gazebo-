@@ -19,3 +19,10 @@
 roslaunch pick_vision pick_demo.launch
 # 在另一个终端
 rosrun pick_vision vision_pick.py
+
+## 环境
+
+ Ubuntu 20.04
+ ROS Noetic
+ OpenCV 3/4
+ Gazebo 9.19
